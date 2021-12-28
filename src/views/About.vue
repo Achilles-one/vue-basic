@@ -1,5 +1,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam dolorem quod aperiam autem nihil, aliquid et iste, porro, repudiandae eum blanditiis? Reprehenderit mollitia minima est sint minus? Ab sed, perferendis ipsa omnis ratione obcaecati neque dolorem vitae vel cumque quos excepturi dicta eius nemo quis eligendi! Eveniet placeat ut repudiandae alias cum, assumenda iure officiis quis? Vel eos ipsum rerum aliquid distinctio ipsam ex architecto libero consequatur, doloribus a excepturi minima in laboriosam? Ut cumque, soluta suscipit nostrum nulla earum ab reprehenderit, voluptas, provident odio nobis cum. Rem a illum sunt amet molestiae harum culpa numquam, temporibus impedit, hic libero.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam dolorem quod aperiam autem nihil, aliquid et iste, porro, repudiandae eum blanditiis? Reprehenderit mollitia minima est sint minus? Ab sed, perferendis ipsa omnis ratione obcaecati neque dolorem vitae vel cumque quos excepturi dicta eius nemo quis eligendi! Eveniet placeat ut repudiandae alias cum, assumenda iure officiis quis? Vel eos ipsum rerum aliquid distinctio ipsam ex architecto libero consequatur, doloribus a excepturi minima in laboriosam? Ut cumque, soluta suscipit nostrum nulla earum ab reprehenderit, voluptas, provident odio nobis cum. Rem a illum sunt amet molestiae harum culpa numquam, temporibus impedit, hic libero.</p>
   </div>
 </template>
